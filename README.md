@@ -1,5 +1,5 @@
 <h2 align="center">
- <a href="https://discord.com/users/1229449667230830613"><img  width="400px" src="https://lanyard.kyrie25.me/api/982358143768068097?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square"></a>
+ <a href="https://discord.com/users/1229449667230830613"><img  width="400px" src="https://lanyard.kyrie25.me/api/982358143768068097"></a>
 <br> </br>
  </h2>
 <p align="center">
@@ -9,7 +9,7 @@
 
 
 
-```js
+```
 class Vera {
     constructor(options) {
         this.name = "Vera",
